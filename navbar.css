@@ -1,0 +1,29 @@
+.heading
+{
+    cursor: pointer;
+}
+.heading:hover
+{
+    opacity: 0.8;
+}
+.icon-focus
+{
+    cursor: pointer;
+}
+.icon-focus:hover
+{
+    opacity: 0.8;
+
+}
+.count
+{
+    position: relative;
+    font-size: 16px;
+    background-color: red;
+    color: white;
+    padding: 1px 7px;
+    border-radius: 20px;
+    padding-bottom: 3px;
+    bottom: -5px;
+    right: 10px;
+}
